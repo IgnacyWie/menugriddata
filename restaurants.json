@@ -1,0 +1,2464 @@
+[
+  {
+    "name": "Charlotte Bouillon",
+    "id": "1",
+    "latitude": "52.230913030558874",
+    "longitude": "21.021931896555788",
+    "image": "https://imageproxy.wolt.com/venue/5e70891c8684ae28a88a6181/8ab010e6-82dc-11ea-8538-0a586467b81d_bouillon.jpg",
+    "menu": [
+      {
+        "title": "Z myślą o Tobie",
+        "products": [
+          {
+            "name": "Świeżo Wyciskany Sok",
+            "price": "12,00 zł",
+            "description": "Smak do wyboru.",
+            "image": "https://d1ralsognjng37.cloudfront.net/12a1fcdb-c54d-4e12-b871-8e0ac7a56894.jpeg"
+          },
+          {
+            "name": "Croque Monsieur",
+            "price": "22,00 zł",
+            "description": "Francuska zapiekanka z chleba z beszmalem, szynką pod serem Gruyère. Podawana z mieszanką sałat i pomidorkami cherry. Dodatek do wyboru.",
+            "image": "https://d1ralsognjng37.cloudfront.net/956b3e3d-4c91-443a-8633-4094173960e3.jpeg"
+          },
+          {
+            "name": "Tartine Dinde Mayo",
+            "price": "14,00 zł",
+            "description": "Zapiekana kanapka z plastrami pieczonej piersi z indyka, sos z żurawiny i czerwonego wina podana z majonezem.",
+            "image": "https://d1ralsognjng37.cloudfront.net/0d2fd494-85c3-4636-9694-3e49cce20303.jpeg"
+          },
+          {
+            "name": "Tartine Dijon",
+            "price": "12,00 zł",
+            "description": "Kanapka na chlebie Charlotte z szynką, serem Gruyère i musztardą Dijon.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ca03e589-5087-4f1c-97f8-945886d88ef0.jpeg"
+          },
+          {
+            "name": "Tartine Rostbef",
+            "price": "13,00 zł",
+            "description": "Kanapka na chlebie Charlotte z plastrami rostbefu, majonem i roszponką.",
+            "image": "https://d1ralsognjng37.cloudfront.net/0040be09-9c54-4a5e-97a2-7ee3c803bda5.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Śniadania z Charlotte",
+        "products": [
+          {
+            "name": "Śniadanie Francuskie",
+            "price": "16,00 zł",
+            "description": "Croissant i kawa śniadaniowa 200 ml. Możliwość wymiany mleka.",
+            "image": "https://d1ralsognjng37.cloudfront.net/3b63f36e-4f83-487b-8f35-15832b2d72a4.jpeg"
+          },
+          {
+            "name": "Śniadanie Charlotte ze Świeżym Sokiem",
+            "price": "25,00 zł",
+            "description": "Bagietka paryska, croissant, dwie porcje 50 ml czekolady, konfitury, słonego karmelu lub miodu lawendowego, \nświeżo wyciskany sok z pomarańczy lub grejpfruta, porcja masła.",
+            "image": "https://d1ralsognjng37.cloudfront.net/4126ce09-2e8a-4874-ba64-a8560da65de3.jpeg"
+          },
+          {
+            "name": "Śniadanie Charlotte z Kawą",
+            "price": "23,00 zł",
+            "description": "Bagietka paryska, croissant, dwie porcje 50 ml czekolady, konfitury, słonego karmelu lub miodu lawendowego, \ndowolna kawa, porcja masła.",
+            "image": "https://d1ralsognjng37.cloudfront.net/84d27770-1abf-46c9-8dbd-64cce8a04624.jpeg"
+          },
+          {
+            "name": "Śniadanie Charlotte dla Dwojga ze Świeżym Sokiem",
+            "price": "48,00 zł",
+            "description": "Bagietka paryska, dwa croissanty, dwie porcje 100 ml czekolady, konfitury, słonego karmelu lub miodu lawendowego \ndwa świeżo wyciskane soki z pomarańczy lub grejpfruta, dwie porcje masła.",
+            "image": "https://d1ralsognjng37.cloudfront.net/f3c13297-5cce-4532-b422-2ee02df493e4.jpeg"
+          },
+          {
+            "name": "Śniadanie Charlotte dla Dwojga z Kawą",
+            "price": "44,00 zł",
+            "description": "Bagietka paryska, dwa croissanty, dwie porcje 100 ml czekolady, konfitury, słonego karmelu lub miodu lawendowego \ndwie dowolne kawy, dwie porcje masła.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ad14d7c5-482c-4378-9ff6-6a0842f4f01c.jpeg"
+          },
+          {
+            "name": "Śniadanie z Granolą",
+            "price": "26,00 zł",
+            "description": "Granola z jogurtem naturalnym, croissant, świeżo wyciskany sok. Smak soku do wyboru.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ed57115a-f0bd-4344-89e5-86490c0c55ef.jpeg"
+          },
+          {
+            "name": "Granola z Jogurtem",
+            "price": "11,00 zł",
+            "description": "Jogurt naturalny z domową granolą z opiekanych płatków, orzechów, miodu i żurawiny.",
+            "image": "https://d1ralsognjng37.cloudfront.net/3f5321d6-021c-4d74-bffd-c7f2294f4337.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Napoje Gorące",
+        "products": [
+          {
+            "name": "Kawa Śniadaniowa",
+            "price": "10,00 zł",
+            "description": "200 ml.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ae8e3fc1-6309-4a67-a59c-a989eb263ba1.jpeg"
+          },
+          {
+            "name": "Kawa Śniadaniowa z Mlekiem",
+            "price": "10,00 zł",
+            "description": "200 ml. Możliwość wymiany mleka.",
+            "image": "https://d1ralsognjng37.cloudfront.net/45b0123d-eea3-46d8-a264-5bf1f4b4b165.jpeg"
+          },
+          {
+            "name": "Cappuccino",
+            "price": "12,00 zł",
+            "description": "200 ml. Możliwość wymiany mleka.",
+            "image": "https://d1ralsognjng37.cloudfront.net/a03b1f4e-2a4c-4ac4-869f-91837e142a53.jpeg"
+          },
+          {
+            "name": "Latte",
+            "price": "13,00 zł",
+            "description": "300 ml. Możliwość wymiany mleka.",
+            "image": "https://d1ralsognjng37.cloudfront.net/a7250abc-a91b-43ea-940f-04668c98f533.jpeg"
+          },
+          {
+            "name": "Flat White",
+            "price": "14,00 zł",
+            "description": "200 ml. Możliwość wymiany mleka.",
+            "image": "https://d1ralsognjng37.cloudfront.net/004597c2-a2d6-44f2-9572-ac8b0befc33a.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Francuskie Pieczywo na Zakwasie",
+        "products": [
+          {
+            "name": "Bagietka Paryska",
+            "price": "6,00 zł",
+            "description": "Bagietka na zakwasie z mąki pszennej.",
+            "image": "https://d1ralsognjng37.cloudfront.net/f0cb92c4-3b66-4448-8a36-c8d21780c73e.jpeg"
+          },
+          {
+            "name": "Bagietka Tradycyjna",
+            "price": "6,00 zł",
+            "description": "Bagietka na zakwasie z mąki pszenno-żytniej.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ebea2e9f-4941-4a64-b58b-3eca931ee0a8.jpeg"
+          },
+          {
+            "name": "Bajgiel naturalny",
+            "price": "3,50 zł",
+            "description": "",
+            "image": "https://d1ralsognjng37.cloudfront.net/b19e36ef-a5cd-41c5-bb1c-ac0f25c93d43.jpeg"
+          },
+          {
+            "name": "Chleb Charlotte",
+            "price": "20,00 zł",
+            "description": "Mocno wypieczony chleb pszenny na zakwasie o chrupiącej skórce. 1000 g.",
+            "image": "https://d1ralsognjng37.cloudfront.net/dbb8871d-0573-4057-99fe-cec0ebb1f7b2.jpeg"
+          },
+          {
+            "name": "Połowa Chleba Charlotte",
+            "price": "10,00 zł",
+            "description": "Mocno wypieczony chleb pszenny na zakwasie o chrupiącej skórce. 500 g.",
+            "image": "https://d1ralsognjng37.cloudfront.net/daa9d6dc-0f4e-4409-81ac-79c26b268f4f.jpeg"
+          },
+          {
+            "name": "Chleb Pettie Charlotte",
+            "price": "7,00 zł",
+            "description": "Mocno wypieczony chleb pszenny na zakwasie o chrupiącej skórce. Mała wersja chleba Charlotte.",
+            "image": "https://d1ralsognjng37.cloudfront.net/adc3cade-42ff-4fd1-a761-9af0764e7f2e.jpeg"
+          },
+          {
+            "name": "Chleb Żytni",
+            "price": "9,00 zł",
+            "description": "Chleb na zakwasie, robiony na mące żytniej.",
+            "image": "https://d1ralsognjng37.cloudfront.net/864eee6f-6d09-4d22-89f0-305b9c8bc158.jpeg"
+          },
+          {
+            "name": "Chleb Razowy",
+            "price": "9,00 zł",
+            "description": "Chleb na zakwasie z mąki żytniej razowej, posiada najniższy indeks glikemiczny.",
+            "image": "https://d1ralsognjng37.cloudfront.net/57672d4b-7e2d-4469-9a02-2e3a7f6de29f.jpeg"
+          },
+          {
+            "name": "Chleb z Oliwkami i Rozmarynem",
+            "price": "9,00 zł",
+            "description": "Chleb pszenny na zakwasie z dodatkiem czarnych oliwek i świeżego\nrozmarynu\n.",
+            "image": "https://d1ralsognjng37.cloudfront.net/a77f80e8-7829-4bc5-9b85-a7aef77c8e1b.jpeg"
+          },
+          {
+            "name": "Chleb z Orzechami i Rodzynkami",
+            "price": "9,00 zł",
+            "description": "Chleb pszenny na zakwasie z dodatkiem orzechów włoskich i rodzynek.",
+            "image": "https://d1ralsognjng37.cloudfront.net/0fa20b50-81aa-48c3-96a1-163975cd6963.jpeg"
+          },
+          {
+            "name": "Chleb Pełnoziarnisty z Chia i Amarantusem",
+            "price": "9,00 zł",
+            "description": "Chleb z mąki pszenno-żytniej z dodatkiem piwa oraz nasionami chia i\namarantusem.",
+            "image": "https://d1ralsognjng37.cloudfront.net/1a944527-00ec-4265-93fd-86da941a7bef.jpeg"
+          },
+          {
+            "name": "Chleb o Niskiej Zawartości Glutenu",
+            "price": "11,00 zł",
+            "description": "Chleb na zakwasie z mąki kukurydzianej, ryżowej i gryczanej. Nie zawiera mąki pszennej.",
+            "image": "https://d1ralsognjng37.cloudfront.net/f95f4178-30ea-4d1b-a13e-fce204c4703c.jpeg"
+          },
+          {
+            "name": "Chałka",
+            "price": "9,00 zł",
+            "description": "Puszyste, drożdżowe pieczywo zaplecione w warkocz.",
+            "image": "https://d1ralsognjng37.cloudfront.net/9ebebf18-6903-4168-b7d2-93bf1d883824.jpeg"
+          },
+          {
+            "name": "Mała Chałka",
+            "price": "4,50 zł",
+            "description": "Puszyste, drożdżowe pieczywo zaplecione w ósemkę",
+            "image": "https://d1ralsognjng37.cloudfront.net/e390bc78-3306-4082-adfe-324000b840d7.jpeg"
+          },
+          {
+            "name": "Bajgiel posypany makiem",
+            "price": "3,50 zł",
+            "description": "",
+            "image": "https://d1ralsognjng37.cloudfront.net/10d26f49-a118-4d76-b573-196d9cfe3f14.jpeg"
+          },
+          {
+            "name": "Bajgiel posypany sezamem",
+            "price": "3,50 zł",
+            "description": "",
+            "image": "https://d1ralsognjng37.cloudfront.net/1d6d74e8-385e-4693-a8c1-ce37530e032a.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Tartines Kanapki na Zimno",
+        "products": [
+          {
+            "name": "Tartine Dijon",
+            "price": "12,00 zł",
+            "description": "Kanapka na chlebie Charlotte z szynką, serem Gruyère i musztardą Dijon.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ca03e589-5087-4f1c-97f8-945886d88ef0.jpeg"
+          },
+          {
+            "name": "Tartine Bayonne",
+            "price": "12,00 zł",
+            "description": "Kanapka na chlebie Charlotte z dojrzewającą szynką, karczochami w oleju i rukolą.",
+            "image": "https://d1ralsognjng37.cloudfront.net/df2d356e-48da-4b38-86a3-d50fd6fe82a5.jpeg"
+          },
+          {
+            "name": "Tartine Rostbef",
+            "price": "13,00 zł",
+            "description": "Kanapka na chlebie Charlotte z plastrami rostbefu, majonem i roszponką.",
+            "image": "https://d1ralsognjng37.cloudfront.net/0040be09-9c54-4a5e-97a2-7ee3c803bda5.jpeg"
+          },
+          {
+            "name": "Tartine Saumon Fumé",
+            "price": "13,00 zł",
+            "description": "Kanapka na chlebie Charlotte z wędzonym łososiem, gęstą śmietaną i koperkiem.",
+            "image": "https://d1ralsognjng37.cloudfront.net/29983203-a925-4bb4-a406-897b9a39fc27.jpeg"
+          },
+          {
+            "name": "Tartine Chèvre",
+            "price": "13,00 zł",
+            "description": "Kanapka na chlebie Charlotte z kozim serem, roszponką, miodem i\ntymiankiem.",
+            "image": "https://d1ralsognjng37.cloudfront.net/3dc4b295-5626-4716-a3bd-1d7dff64dc58.jpeg"
+          },
+          {
+            "name": "Tartine Fromage",
+            "price": "12,00 zł",
+            "description": "Kanapka na chlebie Charlotte z serem Pavé 3 Provinces i świeżą figą.",
+            "image": "https://d1ralsognjng37.cloudfront.net/893e10b9-2595-48d7-8372-f48fa8186e24.jpeg"
+          },
+          {
+            "name": "Tartine Ratatouille",
+            "price": "12,00 zł",
+            "description": "Kanapka na chlebie Charlotte z grillowaną cukinią i bakłażanem, pieczoną papryką, rukolą i sosem balsamico.\n",
+            "image": "https://d1ralsognjng37.cloudfront.net/a9b28a29-5d6f-4248-9f62-1aa81f8729dc.jpeg"
+          },
+          {
+            "name": "Tartine Haricots",
+            "price": "12,00 zł",
+            "description": "Kanapka na chlebie Charlotte z pastą z białej fasoli i opiekanym pomidorem.",
+            "image": "https://d1ralsognjng37.cloudfront.net/6ded7b11-47b9-4027-aef7-84f81a3c25fb.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Tartines Kanapki na Ciepło",
+        "products": [
+          {
+            "name": "Tartine Dinde Mayo",
+            "price": "14,00 zł",
+            "description": "Zapiekana kanapka z plastrami pieczonej piersi z indyka, sos z żurawiny i czerwonego wina podana z majonezem.",
+            "image": "https://d1ralsognjng37.cloudfront.net/0d2fd494-85c3-4636-9694-3e49cce20303.jpeg"
+          },
+          {
+            "name": "Tartine Mozzarella z Tapenadą",
+            "price": "14,00 zł",
+            "description": "Zapiekana kanapka z serem mozzarella i pastą z czarnych oliwek.",
+            "image": "https://d1ralsognjng37.cloudfront.net/4478227f-9333-4221-a0a3-a2604577b67e.jpeg"
+          },
+          {
+            "name": "Tartine Chèvre Chaud",
+            "price": "14,00 zł",
+            "description": "Zapiekana kanapka z serem kozim, tymiankiem i miodem.",
+            "image": "https://d1ralsognjng37.cloudfront.net/e25c2a2d-397d-4af1-833a-f3618077aaf1.jpeg"
+          },
+          {
+            "name": "Tartine Jambon Gruyère",
+            "price": "14,00 zł",
+            "description": "Zapiekana kanapka z szynką i serem Gruyère oraz pesto z rukoli i szpinaku robionym w Charlotte.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ee667644-87f9-4e6b-abd4-2c33a47ad3e0.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Croque",
+        "products": [
+          {
+            "name": "Croque Mademoiselle",
+            "price": "22,00 zł",
+            "description": "Francuska zapiekanka z chleba z beszamelem, cukinią pod serem Gruyère. Podawana z mieszanką sałat i pomidorkami cherry. ",
+            "image": "https://d1ralsognjng37.cloudfront.net/184a4e9a-149e-470e-8cd6-9ed96f2b2f97.jpeg"
+          },
+          {
+            "name": "Croque Monsieur",
+            "price": "22,00 zł",
+            "description": "Francuska zapiekanka z chleba z beszmalem, szynką pod serem Gruyère. Podawana z mieszanką sałat i pomidorkami cherry. Dodatek do wyboru.",
+            "image": "https://d1ralsognjng37.cloudfront.net/956b3e3d-4c91-443a-8633-4094173960e3.jpeg"
+          },
+          {
+            "name": "Croque Madame",
+            "price": "24,00 zł",
+            "description": "Francuska zapiekanka z chleba z beszamelem, piersią z indyka pod serem Gruyère z jajkiem sadzonym. Podawana z mieszanką sałat i pomidorkami cherry. ",
+            "image": "https://d1ralsognjng37.cloudfront.net/ed1b30b0-6acc-4ccc-99e5-a47ba1d7bd63.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Dania",
+        "products": [
+          {
+            "name": "Assiette de Fromage",
+            "price": "15,00 zł",
+            "description": "Talerzyk 4 serów francuskich: kozi, Pave 3 Provinces, Gruyère, bleu podawany z chlebem Charlotte.",
+            "image": "https://d1ralsognjng37.cloudfront.net/7398e953-2589-4198-8d5c-bdfd651865f2.jpeg"
+          },
+          {
+            "name": "Assiette de Charcuterie",
+            "price": "15,00 zł",
+            "description": "Talerzyk wędlin i przysmaków francuskich podawany z chlebem Charlotte.",
+            "image": "https://d1ralsognjng37.cloudfront.net/39403839-c687-4a1d-8f8d-e70182694e91.jpeg"
+          },
+          {
+            "name": "Foie a la Charlotte",
+            "price": "18,00 zł",
+            "description": "Mus z wątróbek drobiowych z brandy z konfiturą z fig, podawany z 4 kromkami pieczywa.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ecb94bd0-7902-4610-b6e7-b3cf337389bc.jpeg"
+          },
+          {
+            "name": "Prowansalskie Ratatouille ze Świeżych Warzyw",
+            "price": "23,00 zł",
+            "description": "Duszone warzywa: papryka, cukinia, bakłażan, koper włoski, czerwona cebula, pomidory, czosnek. Podawane z zielonym pesto i chlebem Charlotte.",
+            "image": "https://d1ralsognjng37.cloudfront.net/2ec9c532-55c2-4d32-bf78-d43cbea6502c.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Sałatki",
+        "products": [
+          {
+            "name": "Sałatka Nicoise",
+            "price": "21,00 zł",
+            "description": "Sałatka z tuńczykiem, fasolką szparagową, jajkami przepiórczymi, pomidorkami cherry z dressingiem vinaigrette z anchois, podana z 2 kawałkami pieeczywa.",
+            "image": "https://d1ralsognjng37.cloudfront.net/5152665c-500f-498b-8f9e-b20f19a50bc6.jpeg"
+          },
+          {
+            "name": "Sałatka Paysanne",
+            "price": "21,00 zł",
+            "description": "Sałatka z pieczonymi ziemniakiami, korniszonami, rukolą, pomidorkami\ncherry z salsą verde i vinaigrette musztardowym, podana z 2 grzankami z\nserem Gruyère\n.",
+            "image": "https://d1ralsognjng37.cloudfront.net/b1bfc1da-e865-4c96-a7d4-de8233db82dc.jpeg"
+          },
+          {
+            "name": "Sałatka Chèvre Chaud",
+            "price": "21,00 zł",
+            "description": "Sałatka z grzankami z kozim serem, orzeszkami pini i miodowym vinaigrette.",
+            "image": "https://d1ralsognjng37.cloudfront.net/f56d61ed-b70d-4cb5-818c-1602f6f87971.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Viennoiserie",
+        "products": [
+          {
+            "name": "Croissant",
+            "price": "6,00 zł",
+            "description": "Rogalik z ciasta francuskiego z dodatkiem masła.",
+            "image": "https://d1ralsognjng37.cloudfront.net/610068dd-3fed-4e16-9e77-5bd70db45d41.jpeg"
+          },
+          {
+            "name": "Croissant z Nadzieniem Malinowym",
+            "price": "6,50 zł",
+            "description": "Rogalik z ciasta francuskiego z nadzieniem malinowym.",
+            "image": "https://d1ralsognjng37.cloudfront.net/b63f78c7-042e-47a3-bf8f-90a11253d942.jpeg"
+          },
+          {
+            "name": "Croissant z Nadzieniem Cytrynowym",
+            "price": "6,50 zł",
+            "description": "Rogalik z ciasta francuskiego z nadzieniem cytrynowym.",
+            "image": "https://d1ralsognjng37.cloudfront.net/16ac7a0e-35e6-42be-beba-940e8a7b44e4.jpeg"
+          },
+          {
+            "name": "Croissant Fourré",
+            "price": "9,00 zł",
+            "description": "Rogalik z ciasta francuskiego z nadzieniem marcepanowym z płatkami migdałów.",
+            "image": "https://d1ralsognjng37.cloudfront.net/1f0b913d-07ba-4f7f-acb4-f97a20e01d45.jpeg"
+          },
+          {
+            "name": "Pain au Chocolat",
+            "price": "6,50 zł",
+            "description": "Ciastko francuskie z czekoladą.",
+            "image": "https://d1ralsognjng37.cloudfront.net/3fb678d8-5319-4c60-a8b9-91b8720302bc.jpeg"
+          },
+          {
+            "name": "Pain au Raisin",
+            "price": "6,50 zł",
+            "description": "Ciastko francuskie z rodzynkami.",
+            "image": "https://d1ralsognjng37.cloudfront.net/9388a554-19cb-4aaf-bcd3-6d3716addb62.jpeg"
+          },
+          {
+            "name": "Warkocz",
+            "price": "6,50 zł",
+            "description": "Ciastko francuskie z czekoladą i kremem waniliowym.",
+            "image": "https://d1ralsognjng37.cloudfront.net/d6f4dccf-bfe8-4a04-9f87-1dff2e7a963e.jpeg"
+          },
+          {
+            "name": "Petit Brioche",
+            "price": "6,00 zł",
+            "description": "Mała wersja brioche. Ciasto drożdżowe, bez nadzienia, posypane kryształkami cukru.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ffd7dfe0-2f3d-478c-b22a-6c5099d99562.jpeg"
+          },
+          {
+            "name": "Rugelach",
+            "price": "5,00 zł",
+            "description": "Mały żydowski rogalik z nadzieniem.  Ciasto zawiera biały ser, a nadzieniem jest czekolada z makiem i bakaliami.",
+            "image": "https://d1ralsognjng37.cloudfront.net/12945f11-4e1c-4721-b572-b712c8b9212f.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Patisserie",
+        "products": [
+          {
+            "name": "Tarta Cytrynowa",
+            "price": "11,50 zł",
+            "description": "Kruche ciasto z kremem z cytryny i skórką cytrynową oraz karmelizowanym wierzchem.",
+            "image": "https://d1ralsognjng37.cloudfront.net/2c4fd809-1fdc-416d-8fa7-5442d762f80a.jpeg"
+          },
+          {
+            "name": "Ekler",
+            "price": "6,50 zł",
+            "description": "Ciasto ptysiowe z kremem pattiserie o smaku waniliowy z polewą z lukru o smaku kawowym, truskawkowym, waniliowym lub pistacjowym.",
+            "image": "https://d1ralsognjng37.cloudfront.net/e56c8e58-9b00-4bb2-8478-e5fc6f0bb47a.jpeg"
+          },
+          {
+            "name": "Sernik z Białej Czekolady Charlotte",
+            "price": "11,50 zł",
+            "description": "Sernik z dodatkiem białej czekolady na kruchym kakaowo-orzechowym spodzie.",
+            "image": "https://d1ralsognjng37.cloudfront.net/a7f295cc-9662-4f9d-b894-55e2b7c354a4.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Specjały Charlotte",
+        "products": [
+          {
+            "name": "Konfitura Charlotte Malinowa Mini",
+            "price": "9,00 zł",
+            "description": "100 ml.",
+            "image": "https://d1ralsognjng37.cloudfront.net/79775c88-8360-4748-8b96-405bffff9579.jpeg"
+          },
+          {
+            "name": "Konfitura Charlotte Malinowo-Różana",
+            "price": "9,00 zł",
+            "description": "Rozmiar do wyboru.",
+            "image": "https://d1ralsognjng37.cloudfront.net/70f304c8-c2dd-491f-b210-6ec65b33dc60.jpeg"
+          },
+          {
+            "name": "Konfitura Charlotte Malinowa Duże",
+            "price": "32,00 zł",
+            "description": "540 ml.",
+            "image": "https://d1ralsognjng37.cloudfront.net/8e48df34-a036-4b2e-b77f-686f2cb5e66c.jpeg"
+          },
+          {
+            "name": "Konfitura Charlotte Truskawkowa Duże",
+            "price": "32,00 zł",
+            "description": "540 ml.",
+            "image": "https://d1ralsognjng37.cloudfront.net/96bea894-c0c0-42f9-9bea-2e22dd88955e.jpeg"
+          },
+          {
+            "name": "Konfitura Charlotte Pomarańczowa Duże",
+            "price": "32,00 zł",
+            "description": "540 ml.",
+            "image": "https://d1ralsognjng37.cloudfront.net/b53b90d6-fcb4-4a6a-9c47-55b01ecd6517.jpeg"
+          },
+          {
+            "name": "Krem Charlotte z Mlecznej Czekolady Mini",
+            "price": "10,00 zł",
+            "description": "100 ml.",
+            "image": "https://d1ralsognjng37.cloudfront.net/009bd39a-b311-4d7f-a379-31f792c11539.jpeg"
+          },
+          {
+            "name": "Krem Charlotte z Białej Czekolady Duży",
+            "price": "36,00 zł",
+            "description": "540 ml.",
+            "image": "https://d1ralsognjng37.cloudfront.net/43102ec6-2699-4312-8123-6ebfb9feab02.jpeg"
+          },
+          {
+            "name": "Krem Charlotte z Mlecznej Czekolady Duży",
+            "price": "36,00 zł",
+            "description": "540 ml.",
+            "image": "https://d1ralsognjng37.cloudfront.net/3455b435-3b5d-422a-add3-6aabe86bd3b4.jpeg"
+          },
+          {
+            "name": "Miód Lawendowy Charlotte Duży",
+            "price": "36,00 zł",
+            "description": "540 ml.",
+            "image": "https://d1ralsognjng37.cloudfront.net/38ff97fd-5d32-429f-992e-0ee9e6dd798d.jpeg"
+          },
+          {
+            "name": "Herbata Charlotte Earl Grey Charles",
+            "price": "58,00 zł",
+            "description": "Czarna herbata śniadaniowa (puszka 100 g).",
+            "image": "https://d1ralsognjng37.cloudfront.net/7d197311-93fe-46da-9856-e0c046295e57.jpeg"
+          },
+          {
+            "name": "Herbata Charlotte French Breakfast",
+            "price": "58,00 zł",
+            "description": "Czarna herbata z dodatkiem bergamotki (puszka 100 g).",
+            "image": "https://d1ralsognjng37.cloudfront.net/1298d7ed-d174-4d43-ba73-bd995a49c66a.jpeg"
+          },
+          {
+            "name": "Herbata Charlotte Jardin",
+            "price": "63,00 zł",
+            "description": "Czarna herbata o kwiatowo-owocowym aromacie (puszka 100 g).",
+            "image": "https://d1ralsognjng37.cloudfront.net/c667ca3b-ab58-4911-a818-a7dcf65d8c73.jpeg"
+          },
+          {
+            "name": "Herbata Charlotte Vert Celadon",
+            "price": "58,00 zł",
+            "description": "Zielona tradycyjna chińska herbata (puszka 100 g).",
+            "image": "https://d1ralsognjng37.cloudfront.net/98a41ac7-4740-49cb-bc47-5b4504869cd6.jpeg"
+          },
+          {
+            "name": "Herbata Charlotte Lavande Rosee",
+            "price": "63,00 zł",
+            "description": "Zielona herbata z dodatkiem lawendy i róży (puszka 100 g).",
+            "image": "https://d1ralsognjng37.cloudfront.net/f832b1c2-db4a-4998-9b51-836dc82c21a6.jpeg"
+          },
+          {
+            "name": "Herbata Charlotte Foret Rouge",
+            "price": "63,00 zł",
+            "description": "Czerwona herbata Rooibos bez teiny z dodatkiem owoców (puszka 100 g).",
+            "image": "https://d1ralsognjng37.cloudfront.net/89103754-bf84-455b-8311-70df037909c9.jpeg"
+          },
+          {
+            "name": "Herbata Charlotte Menthe",
+            "price": "43,00 zł",
+            "description": "Klasyczny napar z liści mięty (puszka 50 g).",
+            "image": "https://d1ralsognjng37.cloudfront.net/1069a6b7-3da0-40d4-927f-d2f6f4644117.jpeg"
+          },
+          {
+            "name": "Herbata Charlotte Infusion Provencale",
+            "price": "43,00 zł",
+            "description": "Mieszanka ziół z Prowansji (puszka 60 g).",
+            "image": "https://d1ralsognjng37.cloudfront.net/9bb62566-5c17-4483-a604-4145f2f75979.jpeg"
+          },
+          {
+            "name": "Bułka Tarta",
+            "price": "5,00 zł",
+            "description": "Przygotowana z bagietek paryskich Charlotte bułka tarta 300 g.",
+            "image": "https://d1ralsognjng37.cloudfront.net/ff5db55c-8756-4ec7-b26c-cf21ea6dcee2.jpeg"
+          },
+          {
+            "name": "Granola",
+            "price": "14,00 zł",
+            "description": "Domowa granola z opiekanych płatków owsianych, orzechów, miodu i żurawiny 300g.",
+            "image": "https://d1ralsognjng37.cloudfront.net/d85bdcfd-51c4-4758-a954-04cdd44091f9.jpeg"
+          },
+          {
+            "name": "Kruche Ciasteczka Lawendowe",
+            "price": "14,00 zł",
+            "description": "Kruche ciastka z lawendą 150g.",
+            "image": "https://d1ralsognjng37.cloudfront.net/3a353160-c067-4aae-9680-ac52bdd91aca.jpeg"
+          },
+          {
+            "name": "Skórka Pomarańczy Kandyzowana",
+            "price": "14,00 zł",
+            "description": "100 g.",
+            "image": "https://d1ralsognjng37.cloudfront.net/75831be9-5d4a-4e48-842e-2055b10f51ca.jpeg"
+          },
+          {
+            "name": "Słony Karmel",
+            "price": "10,00 zł",
+            "description": "Rozmiar do wyboru.",
+            "image": "https://d1ralsognjng37.cloudfront.net/eeab6d5e-1d21-4d55-b286-2f7ed450ee73.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Napoje Zimne",
+        "products": [
+          {
+            "name": "Tłoczony Sok Jabłkowy",
+            "price": "7,00 zł",
+            "description": "",
+            "image": "https://d1ralsognjng37.cloudfront.net/da336e89-7fa8-4df1-9006-c750a4eca587.jpeg"
+          },
+          {
+            "name": "Świeżo Wyciskany Sok",
+            "price": "12,00 zł",
+            "description": "Smak do wyboru.",
+            "image": "https://d1ralsognjng37.cloudfront.net/12a1fcdb-c54d-4e12-b871-8e0ac7a56894.jpeg"
+          },
+          {
+            "name": "Coca Cola",
+            "price": "7,00 zł",
+            "description": "",
+            "image": "https://d1ralsognjng37.cloudfront.net/69b504c6-22a2-46d8-97bc-5dcad1040434.jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indian Taste",
+    "id": "2",
+    "image": "https://i.imgur.com/jA4BPJo.png",
+    "latitude": "52.22297667421557",
+    "longitude": "21.036415782898253",
+    "menu": [
+      {
+        "title": "Najpopularniejsze dania",
+        "products": [
+          {
+            "name": "Chicken Tikka Masala",
+            "price": "32,90 zł",
+            "description": "marynowane kawałki kurczaka w ostrym sosie pomidorowym"
+          },
+          {
+            "name": "Butter chicken",
+            "price": "32,90 zł",
+            "description": "kurczak z pieca Tandoor w kremowym sosie pomidorowo-orzechowym"
+          },
+          {
+            "name": "Dal Tadka",
+            "price": "27,90 zł",
+            "description": "tradycyjna, żółta soczewica, danie wegańskie"
+          }
+        ]
+      },
+      {
+        "title": "Przekąski wegetariańskie",
+        "products": [
+          {
+            "name": "Paneer Tikka",
+            "price": "24,90 zł",
+            "description": "grillowany ser paneer, marynowany w indyjskich przyprawach"
+          },
+          {
+            "name": "Mix Vega Pakora",
+            "price": "16,90 zł",
+            "description": "z kawałkami warzyw, w cieście z mąki grochowej"
+          },
+          {
+            "name": "Seasame Aloo Tikki",
+            "price": "16,90 zł",
+            "description": "smażone ziemniaki w indyjskich przyprawach, danie wegańskie"
+          },
+          {
+            "name": "Veg Platter Selection",
+            "price": "42,90 zł",
+            "description": "porcja na 2 osoby, grillowane warzywa i ser paneer"
+          },
+          {
+            "name": "Paneer Chilli",
+            "price": "26,90 zł",
+            "description": "danie ostre, ser marynowany w sosie sojowym i occie winnym, pieczony z warzywami"
+          }
+        ]
+      },
+      {
+        "title": "Przekąski mięsne",
+        "products": [
+          {
+            "name": "Talerz Non-veg Mix selection",
+            "price": "59,90 zł",
+            "description": "wybrane grillowane mięso kurczaka, krewetek, ryb i jagnięciny"
+          },
+          {
+            "name": "Chicken Samosa",
+            "price": "20,90 zł",
+            "description": "kawałki kurczaka w ostrym cieście, z liśćmi curry, ziemniakami i groszkiem"
+          },
+          {
+            "name": "Chicken Tikka",
+            "price": "26,90 zł",
+            "description": "kurczak marynowany w przyprawach, grillowany w piecu Tandoor, danie nie zawiera glutenu"
+          },
+          {
+            "name": "Murgh Malai Tikka",
+            "price": "26,90 zł",
+            "description": "soczysty grillowany kurczak, marynowany w paście z orzechami nerkowca, danie nie zawiera glutenu"
+          },
+          {
+            "name": "Chicken Tandoori",
+            "price": "28,90 zł",
+            "description": "pół grillowanego kurczaka marynowanego w przyprawach, danie nie zawiera glutenu"
+          },
+          {
+            "name": "Chicken Lollipop",
+            "price": "24,90 zł",
+            "description": "chrupiące kawałki kurczaka w domowym sosie barbecue"
+          },
+          {
+            "name": "Chilli Chicken Dry",
+            "price": "26,90 zł",
+            "description": "kurczak marynowany w sosie sojowym i occie winnym, pieczony z warzywami"
+          },
+          {
+            "name": "Lamb Seekh Jodpuri",
+            "price": "32,90 zł",
+            "description": "grillowane mięso mielone jagnięce w indyjskich przyprawach, danie nie zawiera glutenu"
+          },
+          {
+            "name": "Lamb Sammi Kebab",
+            "price": "32,90 zł",
+            "description": "z jagnięciną smażoną w cieście z mąki grochowej"
+          },
+          {
+            "name": "Jhinga Tandoori",
+            "price": "40,90 zł",
+            "description": "krewetki królewskie marynowane i grillowane w piecu Tandoori, danie nie zawiera glutenu"
+          },
+          {
+            "name": "Salmon Tanoori",
+            "price": "36,90 zł",
+            "description": "łosoś marynowany w jogurcie i indyjskich przyprawach, grillowany w piecu Tandoori, danie nie zawiera glutenu"
+          }
+        ]
+      },
+      {
+        "title": "Zupy",
+        "products": [
+          {
+            "name": "Zupa Tomato Shorba",
+            "price": "14,90 zł",
+            "description": "wegetariańska zupa z soczystych pomidorów, duszona ze świeżą bazylią"
+          },
+          {
+            "name": "Zupa Cream of Tomato",
+            "price": "13,90 zł",
+            "description": "wegetariańska zupa ze świeżych pomidorów"
+          },
+          {
+            "name": "Zupa Dal Shorba",
+            "price": "12,90 zł",
+            "description": "wegetariańska, wegańska zupa bez dodatku glutenu, z mieszanką soczewicy"
+          },
+          {
+            "name": "Orientalna zupa tajska z kurczakiem",
+            "price": "18,90 zł",
+            "description": "pikantna zupa na mleku kokosowym, z kurczakiem, trawą cytrynową, grzybami słomianymi i kolendrą"
+          },
+          {
+            "name": "Orientalna zupa tajska z krewetkami",
+            "price": "24,90 zł",
+            "description": "pikantna zupa na mleku kokosowym, z krewetkami, trawą cytrynową, grzybami słomianymi i kolendrą"
+          },
+          {
+            "name": "Zupa Hot & Sour",
+            "price": "18,90 zł",
+            "description": "z kurczakiem w ostro-kwaśnej zalewie"
+          }
+        ]
+      },
+      {
+        "title": "Sałatki",
+        "products": [
+          {
+            "name": "Sałatka Chicken Tikka",
+            "price": "26,90 zł",
+            "description": "z kawałkami kurczaka pieczonymi w piecu Tandoor"
+          },
+          {
+            "name": "Sałatka Salmon Tikka",
+            "price": "32,90 zł",
+            "description": "z łososiem pieczonym w piecu Tandoor"
+          },
+          {
+            "name": "Sałatka Panner Tikka",
+            "price": "28,90 zł",
+            "description": "wegetariańska sałatka z domowym serem pieczonym w piecu Tandoor"
+          },
+          {
+            "name": "Sałatka Green",
+            "price": "18,90 zł",
+            "description": "wegetariańska i wegańska sałatka ze świeżymi warzywami"
+          },
+          {
+            "name": "Sałatka Aloo Chana chat",
+            "price": "20,90 zł",
+            "description": "wegetariańska i wegańska sałatka z ziemniakami, ciecierzycą i cebulą w mieszance przypraw"
+          }
+        ]
+      },
+      {
+        "title": "Dania główne",
+        "products": [
+          {
+            "name": "Chicken Kadhai",
+            "price": "34,90 zł",
+            "description": "kawałki kurczaka w sosie pomidorowym, z mieszanką świeżych warzyw, danie ostre"
+          },
+          {
+            "name": "Chicken Saagwala",
+            "price": "34,90 zł",
+            "description": "kawałki kurczaka w lekko pikantnym sosie szpinakowym"
+          },
+          {
+            "name": "Chicken Jalfrazi",
+            "price": "32,90 zł",
+            "description": "kurczak w sosie pomidorowym masala i mieszanką warzyw, danie ostre"
+          },
+          {
+            "name": "Chicken Mango",
+            "price": "36,90 zł",
+            "description": "kawałki kurczaka w przyprawach indyjskich z kawałkami świeżego mango"
+          },
+          {
+            "name": "Chicken Madras",
+            "price": "34,90 zł",
+            "description": "kawałki kurczaka w pikantnym sosie z regionu Madras"
+          },
+          {
+            "name": "Chicken Dhansak",
+            "price": "34,90 zł",
+            "description": "kawałki kurczaka z bakłażanem i soczewicą"
+          }
+        ]
+      },
+      {
+        "title": "Dania główne wegetariańskie",
+        "products": [
+          {
+            "name": "Dal Tadka",
+            "price": "27,90 zł",
+            "description": "tradycyjna, żółta soczewica, danie wegańskie"
+          },
+          {
+            "name": "Dal Makhni",
+            "price": "28,90 zł",
+            "description": "czarna soczewica gotowana w kremowym sosie, danie wegańskie"
+          },
+          {
+            "name": "Veg. Manchurian",
+            "price": "28,90 zł",
+            "description": "warzywne kulki w sosie sojowym z chilli, danie ostre i wegańskie"
+          },
+          {
+            "name": "Butter Paneer",
+            "price": "32,90 zł",
+            "description": "tradycyjny ser paneer w maślanym sosie z pomidorami i cebulą, danie łagodne"
+          },
+          {
+            "name": "Panner Saagwala",
+            "price": "34,90 zł",
+            "description": "tradycyjny ser paneer w sosie szpinakowym"
+          },
+          {
+            "name": "Pindi Chana",
+            "price": "30,90 zł",
+            "description": "gotowana ciecierzyca w sosie pomidorowo-cebulowym z serem paneer"
+          },
+          {
+            "name": "Navratan Korma",
+            "price": "32,90 zł",
+            "description": "mieszanka warzywna suszona w sosie z nerkowców"
+          },
+          {
+            "name": "Mix Veg",
+            "price": "28,90 zł",
+            "description": "sezonowe warzywa i ser w sosie pomidorowo-cebulowym"
+          },
+          {
+            "name": "Bhindi do pyaza",
+            "price": "30,90 zł",
+            "description": "kawałki okra gotowane w sosie cebulowym"
+          },
+          {
+            "name": "Malai kofta",
+            "price": "32,90 zł",
+            "description": "kulki serowe w delikatnym sosie z suszonymi owocami"
+          },
+          {
+            "name": "Baingan bharta",
+            "price": "30,90 zł",
+            "description": "bakłażan gotowany w sosie masala"
+          }
+        ]
+      },
+      {
+        "title": "Dania z jagnięciny",
+        "products": [
+          {
+            "name": "Lamb Amritsari",
+            "price": "38,90 zł",
+            "description": "baranina w sosie curry"
+          },
+          {
+            "name": "Mutton Tawa Masala",
+            "price": "40,90 zł",
+            "description": "baranina w sosie z nerkowców, z warzywami"
+          },
+          {
+            "name": "Lamb Madras",
+            "price": "40,90 zł",
+            "description": "jagnięcina w pikantnym sosie z regionu Madras"
+          },
+          {
+            "name": "Lamb Aachari",
+            "price": "38,90 zł",
+            "description": "soczysta jagnięcina, gotowana w sosie pomidorowym z warzywami, danie pikantne"
+          },
+          {
+            "name": "Lamb Saagwala",
+            "price": "40,90 zł",
+            "description": "soczysta jagnięcina w lekko pikantnym sosie szpinakowym"
+          },
+          {
+            "name": "Lamb vindaloo",
+            "price": "40,90 zł",
+            "description": "jagnięcina z ziemniakami w ostrym sosie masala"
+          }
+        ]
+      },
+      {
+        "title": "Dania z kurczakiem",
+        "products": [
+          {
+            "name": "Chicken Tikka Masala",
+            "price": "32,90 zł",
+            "description": "marynowane kawałki kurczaka w ostrym sosie pomidorowym"
+          },
+          {
+            "name": "Butter chicken",
+            "price": "32,90 zł",
+            "description": "kurczak z pieca Tandoor w kremowym sosie pomidorowo-orzechowym"
+          },
+          {
+            "name": "Chicken Kadhai",
+            "price": "34,90 zł",
+            "description": "kawałki kurczaka w sosie pomidorowym z mieszanką świeżych warzyw, danie ostre"
+          },
+          {
+            "name": "Chicken Saagwala",
+            "price": "34,90 zł",
+            "description": "kawałki kurczaka w lekko pikantnym sosie szpinakowym"
+          },
+          {
+            "name": "Chicken Jalfrazi",
+            "price": "32,90 zł",
+            "description": "kurczak w sosie pomidorowym masala i mieszanką warzyw. danie ostre"
+          },
+          {
+            "name": "Chicken Mango",
+            "price": "36,90 zł",
+            "description": "kawałki kurczaka w przyprawach indyjskich z kawałkami mango"
+          },
+          {
+            "name": "Chicken Balti",
+            "price": "32,90 zł",
+            "description": "kawałki kurczaka w sosie pomidorowo-cebulowym ze świeżym, zielonym chilli, danie pikantne"
+          },
+          {
+            "name": "Chicken Madras",
+            "price": "34,90 zł",
+            "description": "kawałki kurczaka w pikantnym sosie z regionu Madras"
+          },
+          {
+            "name": "Chicken Dhansak",
+            "price": "34,90 zł",
+            "description": "kawałki kurczaka z bakłażanem i soczewicą"
+          }
+        ]
+      },
+      {
+        "title": "Owoce morza",
+        "products": [
+          {
+            "name": "Fish Malvani",
+            "price": "36,90 zł",
+            "description": "ryba w sosie pomidorowym z przyprawami"
+          },
+          {
+            "name": "Hyderabadi Fish curry",
+            "price": "37,90 zł",
+            "description": "ryba po indyjsku w sosie curry, danie ostre"
+          },
+          {
+            "name": "Coconut Fish Curry",
+            "price": "36,90 zł",
+            "description": "kawałki ryby w sosie kokosowo-cebulowym"
+          },
+          {
+            "name": "Coconut Prawn Curry",
+            "price": "40,90 zł",
+            "description": "kawałki krewetek w sosie kokosowo-cebulowym"
+          },
+          {
+            "name": "Prawn Jalfrazi",
+            "price": "36,90 zł",
+            "description": "krewetki w sosie pomidorowym masala z mieszanką warzyw, danie ostre"
+          }
+        ]
+      },
+      {
+        "title": "Danie z ryżu",
+        "products": [
+          {
+            "name": "Plain Rice",
+            "price": "8,30 zł",
+            "description": "gotowany ryż basmati"
+          },
+          {
+            "name": "Jeera Rice",
+            "price": "10,30 zł",
+            "description": "smażony ryż w kminie indyjskim z przyprawami, danie wegetariańskie i wegańskie"
+          },
+          {
+            "name": "Pulao Rice z groszkiem",
+            "price": "13,30 zł",
+            "description": "smażony ryż z zielonym groszkiem, danie wegetariańskie"
+          },
+          {
+            "name": "Pualao Rice z grzybami",
+            "price": "13,30 zł",
+            "description": "smażony ryż z grzybami, danie wegetariańskie"
+          },
+          {
+            "name": "Saffron rice",
+            "price": "15,30 zł",
+            "description": "smażony ryż z szafranem i kardamonem"
+          },
+          {
+            "name": "Lamb Biryani",
+            "price": "43,30 zł",
+            "description": "ryż basmati, smażony z jagnięciną, podawany z jogurtem, danie ostre"
+          },
+          {
+            "name": "Chicken Biryani",
+            "price": "37,30 zł",
+            "description": "ryż basmati smażony z kurczakiem, podawany z jogurtem, danie ostre"
+          },
+          {
+            "name": "Prawns Biryani",
+            "price": "41,30 zł",
+            "description": "ryż basmati smażony z krewetkami, podawany z jogurtem, danie ostre"
+          },
+          {
+            "name": "Sabazi Biryani",
+            "price": "31,30 zł",
+            "description": "ryż basmati smażony z warzywami, podawany z jogurtem, danie wegetariańskie i ostre"
+          }
+        ]
+      },
+      {
+        "title": "Chlebki z pieca tandoor",
+        "products": [
+          {
+            "name": "Tandoori Roti",
+            "price": "7,90 zł",
+            "description": "placek z ciemnej mąki"
+          },
+          {
+            "name": "Methi Roti",
+            "price": "9,90 zł",
+            "description": "indyjski chleb z liśćmi kozieratki"
+          },
+          {
+            "name": "Laccha Paratha",
+            "price": "10,90 zł",
+            "description": "wielowarstwowy, indyjski chleb z ciemnej mąki"
+          },
+          {
+            "name": "Plain Nann",
+            "price": "7,90 zł",
+            "description": "indyjski chleb z białej mąki"
+          },
+          {
+            "name": "Butter Naan",
+            "price": "8,90 zł",
+            "description": "indyjski chleb z białej mąki z masłem"
+          },
+          {
+            "name": "Garlic Naan",
+            "price": "10,90 zł",
+            "description": "indyjski chleb z białej mąki z czosnkiem i masłem"
+          },
+          {
+            "name": "Corriander Naan",
+            "price": "10,90 zł",
+            "description": "indyjski chleb z pieca tandoor z miętą"
+          },
+          {
+            "name": "Aloo Kulcha",
+            "price": "12,90 zł",
+            "description": "chlebek nadziewany z ziemniakami i przyprawami"
+          },
+          {
+            "name": "Onion Kulcha",
+            "price": "12,90 zł",
+            "description": "chlebek nadziewany cebulą, puree z ziemniaków i przyprawami"
+          },
+          {
+            "name": "Peshawari Paratha",
+            "price": "16,90 zł",
+            "description": "chlebek nadziewany mielonym białym serem i rodzynkami"
+          },
+          {
+            "name": "Keema Naam",
+            "price": "16,90 zł",
+            "description": "chlebek nadziewany jagnięciną i przyprawami, danie ostre"
+          }
+        ]
+      },
+      {
+        "title": "Menu dla dzieci",
+        "products": [
+          {
+            "name": "Frytki",
+            "price": "8,90 zł",
+            "description": ""
+          },
+          {
+            "name": "Cheese Balls",
+            "price": "12,90 zł",
+            "description": "smażone, indyjskie kulki sera paneer"
+          },
+          {
+            "name": "Smażone kawałki kurczaka",
+            "price": "18,90 zł",
+            "description": "podawane z frytkami"
+          },
+          {
+            "name": "Smażone kawałki ryby",
+            "price": "18,90 zł",
+            "description": "podawane z frytkami"
+          }
+        ]
+      },
+      {
+        "title": "Desery",
+        "products": [
+          {
+            "name": "Hot Gulab Jamun",
+            "price": "12,90 zł",
+            "description": "tradycyjne kulki serowo-mleczne w słodkim syropie z kardamonem"
+          },
+          {
+            "name": "Thandi Kheer",
+            "price": "12,90 zł",
+            "description": "ryżowy pudding z pistacjami i szafranem"
+          }
+        ]
+      },
+      {
+        "title": "Dodatki",
+        "products": [
+          {
+            "name": "Plain Dahi",
+            "price": "6,90 zł",
+            "description": "jogurt"
+          },
+          {
+            "name": "Cucumber Raita",
+            "price": "9,90 zł",
+            "description": "jogurt z ogórkiem i przyprawami"
+          },
+          {
+            "name": "Mix Veg Raita",
+            "price": "12,90 zł",
+            "description": "jogurt z ogórkiem, pomidorami, czerwoną cebulą i przyprawami"
+          },
+          {
+            "name": "Papadums plain",
+            "price": "5,90 zł",
+            "description": "chrupiące wafle z soczewicy"
+          },
+          {
+            "name": "Papadums masala",
+            "price": "7,90 zł",
+            "description": "chrupiące wafle z soczewicy z cebulką i pomidorami"
+          }
+        ]
+      },
+      {
+        "title": "Napoje bezalkoholowe",
+        "products": [
+          {
+            "name": "Mango Lassi",
+            "price": "12,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Lassi Różane",
+            "price": "12,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Lassi Słone",
+            "price": "12,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Lassi słodkie",
+            "price": "12,00 zł",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qchnia Rozbrat",
+    "id": "3",
+    "image": "https://d1ralsognjng37.cloudfront.net/782b2db5-b79c-453c-84fe-3e0c25d80d83.jpeg",
+    "latitude": "52.2223249",
+    "longitude": "21.0363748",
+    "menu": [
+      {
+        "title": "Najpopularniejsze dania",
+        "products": [
+          {
+            "name": "Kurczak chrupiący",
+            "price": "19,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kurczak w cieście",
+            "price": "17,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Pad thai",
+            "price": "13,00 zł",
+            "description": "makaron ryżowy z sosem tamaryndowca"
+          }
+        ]
+      },
+      {
+        "title": "Azjatyckie nowości",
+        "products": [
+          {
+            "name": "MaPo Tofu",
+            "price": "24,00 zł",
+            "description": ""
+          },
+          {
+            "name": "MaPo Wieprzowina",
+            "price": "23,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Tofu Pomidorowe",
+            "price": "23,00 zł",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Przekąski i desery",
+        "products": [
+          {
+            "name": "Sajgonki z mięsem 3 szt.",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sajgonki wegetariańskie 3 szt.",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sajgonki z krewetkami 3 szt.",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Krewetki chrupiące 2 szt.",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kalmary chrupiące 2 szt.",
+            "price": "8,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Zapiekane pierożki WonTon 3 szt.",
+            "price": "9,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Chipsy krewetkowe 10 szt.",
+            "price": "5,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Frytki",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Banan w cieście",
+            "price": "8,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Ananas w cieście",
+            "price": "8,00 zł",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Zupy Qchnii",
+        "products": [
+          {
+            "name": "Bulion z kurczakiem i makaronem",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Zupa Wonton",
+            "price": "13,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Zupa słodko-pikantna",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Zupa pekińska",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Zupa krewetkowa",
+            "price": "16,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Zupa krabowa",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Zupa rybna",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Zupa Tom Ka z kurczakiem",
+            "price": "16,00 zł",
+            "description": "na mleku kokosowym"
+          },
+          {
+            "name": "Zupa Tom Ka z krewetkami",
+            "price": "18,00 zł",
+            "description": "na mleku kokosowym"
+          },
+          {
+            "name": "Zupa Tom Yum z kurczakiem",
+            "price": "16,00 zł",
+            "description": "na bulionie"
+          },
+          {
+            "name": "Zupa Tom Yum z krewetkami",
+            "price": "18,00 zł",
+            "description": "na bulionie"
+          }
+        ]
+      },
+      {
+        "title": "Tajski Wok - Nowość",
+        "products": [
+          {
+            "name": "Thai Basil",
+            "price": "23,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Thai Nut",
+            "price": "23,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Massaman Curry",
+            "price": "23,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Panang Curry",
+            "price": "23,00 zł",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Uczta drobiowa",
+        "products": [
+          {
+            "name": "Kurczak w cieście",
+            "price": "17,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kurczak chrupiący",
+            "price": "19,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kurczak w sezamie",
+            "price": "18,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kurczak Gom-Bao",
+            "price": "19,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Udko Shanghai",
+            "price": "21,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Indyk w sosie majonezowo-czosnkowym",
+            "price": "21,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Tajskie paluszki",
+            "price": "21,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Gombao 33",
+            "price": "21,00 zł",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Gorące półmiski",
+        "products": [
+          {
+            "name": "Kurczak Cesarza",
+            "price": "27,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kurczak Cesarzowej",
+            "price": "24,00 zł",
+            "description": "zwykły talerz"
+          },
+          {
+            "name": "Kurczak po wietnamsku",
+            "price": "27,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Udko Asian Honey",
+            "price": "27,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Wołowina Qchnii",
+            "price": "30,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Wołowina Hanoi",
+            "price": "30,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Cielęcina Qchnii",
+            "price": "31,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Cielęcina Hanoi",
+            "price": "31,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kaczka Qchnii",
+            "price": "29,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kaczka Pekin",
+            "price": "29,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Krewetki maślano-czosnkowe",
+            "price": "30,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kalmary maślano-czosnkowe",
+            "price": "30,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Krewetki Pekin",
+            "price": "29,00 zł",
+            "description": "zwykły talerz"
+          },
+          {
+            "name": "Kalmary Pekin",
+            "price": "29,00 zł",
+            "description": "zwykły talerz"
+          }
+        ]
+      },
+      {
+        "title": "Sałatki",
+        "products": [
+          {
+            "name": "Mix sałatkowy",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Mix sałatkowy z kurczakiem",
+            "price": "16,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Mix sałatkowy z rybą na chrupko",
+            "price": "16,00 zł",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Duże miski",
+        "products": [
+          {
+            "name": "Mien Ga",
+            "price": "19,00 zł",
+            "description": "zupa z makaronem sojowym, kurczakiem i grzybami mun"
+          },
+          {
+            "name": "Mien Bo",
+            "price": "21,00 zł",
+            "description": "zupa z makaronem sojowym, wołowiną i grzybami min"
+          },
+          {
+            "name": "Pho Ga",
+            "price": "19,00 zł",
+            "description": "zupa z makaronem ryżowym wstążki z kurczakiem"
+          },
+          {
+            "name": "Pho Tofu",
+            "price": "19,00 zł",
+            "description": "zupa z makaronem ryżowym wstążki z tofu"
+          },
+          {
+            "name": "Pho Bo",
+            "price": "21,00 zł",
+            "description": "zupa z makaronem ryżowym wstążki z wołowiną gotowaną lub smażoną"
+          },
+          {
+            "name": "Pho W",
+            "price": "23,00 zł",
+            "description": "zupa z makaronem ryżowym wstążki i pierożkami wonton"
+          },
+          {
+            "name": "Pho Tom",
+            "price": "23,00 zł",
+            "description": "zupa z makaronem ryżowym wstążki i krewetkami"
+          },
+          {
+            "name": "Bun Ca",
+            "price": "21,00 zł",
+            "description": "zupa z makaronem nitki z rybą w panierce"
+          },
+          {
+            "name": "Bun Bo xao",
+            "price": "23,00 zł",
+            "description": "sałatka z makaronem i smażoną wołowiną"
+          },
+          {
+            "name": "Bun Cha",
+            "price": "23,00 zł",
+            "description": "sałatka z makaronem i smażoną wieprzowiną"
+          },
+          {
+            "name": "Bun Nem",
+            "price": "21,00 zł",
+            "description": "sałata z makaronem i sajgonkami"
+          },
+          {
+            "name": "Sup Van Than",
+            "price": "25,00 zł",
+            "description": "zupa z makaronem jajecznym, pierożkami mięsnymi, sałatą lodową, jajkiem, krewetkami, ziołami, grzybami shitake i szynką"
+          }
+        ]
+      },
+      {
+        "title": "Dania z sosami",
+        "products": [
+          {
+            "name": "Bukiet warzyw",
+            "price": "9,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Tofu",
+            "price": "10,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Kurczak",
+            "price": "10,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Udko kurczaka",
+            "price": "11,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Wieprzowina",
+            "price": "11,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Wołowina",
+            "price": "12,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Cielęcina",
+            "price": "13,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Kaczka chrupiąca",
+            "price": "16,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Kalmary",
+            "price": "12,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Panga w panierce",
+            "price": "11,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Łosoś w panierce",
+            "price": "15,00 zł",
+            "description": "z ryżem i surówką"
+          },
+          {
+            "name": "Krewetki tygrysie",
+            "price": "16,00 zł",
+            "description": "z ryżem i surówką"
+          }
+        ]
+      },
+      {
+        "title": "Zapiekane makarony i ryż",
+        "products": [
+          {
+            "name": "Ryż biały",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Mien",
+            "price": "12,00 zł",
+            "description": "makaron sojowy"
+          },
+          {
+            "name": "Pho",
+            "price": "12,00 zł",
+            "description": "makaron ryżowy wstążki"
+          },
+          {
+            "name": "Mi tau",
+            "price": "12,00 zł",
+            "description": "makaron pszenny"
+          },
+          {
+            "name": "Pad thai",
+            "price": "13,00 zł",
+            "description": "makaron ryżowy z sosem tamaryndowca"
+          },
+          {
+            "name": "Ryż Tajski",
+            "price": "14,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Makaron Udon",
+            "price": "14,00 zł",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Napoje bezalkoholowe",
+        "products": [
+          {
+            "name": "Coca-Cola 0,33l",
+            "price": "5,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Coca-Cola 0,5l",
+            "price": "6,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sok Cappy 0,33l",
+            "price": "5,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sok Tarczyn 0,3l",
+            "price": "5,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sok Tymbark 0,25l",
+            "price": "3,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Woda 0,5l",
+            "price": "4,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Tiger 0,25l",
+            "price": "5,00 zł",
+            "description": ""
+          },
+          {
+            "name": "RedBull 0,25l",
+            "price": "8,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Napój aloesowy OKF 0,5l",
+            "price": "9,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Nestea 0,5l",
+            "price": "6,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sok tropikalny 0,33l",
+            "price": "6,00 zł",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Da Gusto",
+    "id": "4",
+    "image": "https://cdn.website.dish.co/media/67/99/1598967/Da-Gusto-MG-7208.jpg",
+    "latitude": "52.2227706",
+    "longitude": "21.0367254",
+    "menu": [
+      {
+        "title": "Najpopularniejsze dania",
+        "products": [
+          {
+            "name": "Pizza Parma",
+            "price": "37,00 zł",
+            "description": "szynka parmeńska, rukola, parmezan, cherry"
+          },
+          {
+            "name": "Pizza Quattro Formmagi",
+            "price": "37,00 zł",
+            "description": "sos beszamel, mozzarella, gorgonzola, tallegio, parmezan"
+          },
+          {
+            "name": "Pizza Capriciosa",
+            "price": "29,00 zł",
+            "description": "szynka cotto, pieczarki"
+          }
+        ]
+      },
+      {
+        "title": "Pizza",
+        "products": [
+          {
+            "name": "Pizza Margherita",
+            "price": "25,00 zł",
+            "description": "sos pomidorowy, mozzarella, bazylia"
+          },
+          {
+            "name": "Pizza Pepperoni",
+            "price": "31,00 zł",
+            "description": "kiełbasa pepperoni, cebula"
+          },
+          {
+            "name": "Pizza Carbonara",
+            "price": "36,00 zł",
+            "description": "sos beszamel, pancetta, jaja przepiórcze, parmezan"
+          },
+          {
+            "name": "Pizza Tonno",
+            "price": "37,00 zł",
+            "description": "tuńczyk, czerwona cebula, zielone oliwki"
+          },
+          {
+            "name": "Pizza Capriciosa",
+            "price": "29,00 zł",
+            "description": "szynka cotto, pieczarki"
+          },
+          {
+            "name": "Pizza Vegetariana",
+            "price": "32,00 zł",
+            "description": "oliwki, cukinia, pieczarki i cebula"
+          },
+          {
+            "name": "Pizza Cezar",
+            "price": "37,00 zł",
+            "description": "sos cezar, kurczak, pancetta, cherry, rukola"
+          },
+          {
+            "name": "Pizza Quattro Formmagi",
+            "price": "37,00 zł",
+            "description": "sos beszamel, mozzarella, gorgonzola, tallegio, parmezan"
+          },
+          {
+            "name": "Pizza Marinara",
+            "price": "32,00 zł",
+            "description": "sos pomidorowy, anchois, czosnek, bazylia"
+          },
+          {
+            "name": "Pizza Spinaci",
+            "price": "35,00 zł",
+            "description": "sos beszamel, szpinak, gorgonzola, orzechy włoskie"
+          },
+          {
+            "name": "Pizza Salame",
+            "price": "36,00 zł",
+            "description": "salami, salsa pomidorowa, parmezan"
+          },
+          {
+            "name": "Pizza Al Capone",
+            "price": "35,00 zł",
+            "description": "spianata, gorgonzola, mix ostrych papryk"
+          },
+          {
+            "name": "Pizza Diavolo",
+            "price": "36,00 zł",
+            "description": "spianata, salami, tabasco, mix ostrych papryk"
+          },
+          {
+            "name": "Pizza Parma",
+            "price": "37,00 zł",
+            "description": "szynka parmeńska, rukola, parmezan, cherry"
+          },
+          {
+            "name": "Pizza Scampi",
+            "price": "38,00 zł",
+            "description": "krewetki, kolendra, czosnek, sos spicy-mango"
+          }
+        ]
+      },
+      {
+        "title": "Przystawki",
+        "products": [
+          {
+            "name": "Polędwiczka Vitello Tonnato",
+            "price": "37,00 zł",
+            "description": "w sosie z kaparów i tuńczyka z parmezanem i grzankami"
+          },
+          {
+            "name": "Krewetki w sosie mango-chilli",
+            "price": "47,00 zł",
+            "description": "z focaccią"
+          }
+        ]
+      },
+      {
+        "title": "Dania główne",
+        "products": [
+          {
+            "name": "Saltimbocca",
+            "price": "42,00 zł",
+            "description": "polędwiczka wieprzowa zawijana w szynce parmeńskiej z mozzarellą i szałwią z ziemniaczkami i sosem maślanym"
+          },
+          {
+            "name": "Puttanesca",
+            "price": "38,00 zł",
+            "description": "polędwiczki drobiowe w sosie z kaparów, anchois i pomidorów z gnocchi"
+          },
+          {
+            "name": "Lucioperca",
+            "price": "48,00 zł",
+            "description": "sandacz w delikatnym sosie z warzywami sezonowymi"
+          }
+        ]
+      },
+      {
+        "title": "Sałatki",
+        "products": [
+          {
+            "name": "Sałatka Cezar",
+            "price": "35,00 zł",
+            "description": "sałata rzymska z kurczakiem, boczkiem, parmezanem i sosem cezar"
+          },
+          {
+            "name": "Sałatka Tallegio",
+            "price": "33,00 zł",
+            "description": "sałata z warzywami i sosem vinegrette z zapiekaną grzanką z tallegio"
+          }
+        ]
+      },
+      {
+        "title": "Makarony",
+        "products": [
+          {
+            "name": "Spaghetti bolognese",
+            "price": "28,00 zł",
+            "description": "spaghetti z sosem bolognese i parmezanem"
+          },
+          {
+            "name": "Tagliatelle con pollo e spinaci",
+            "price": "32,00 zł",
+            "description": "tagliatelle z kurczakiem, szpinakiem i sosem śmietanowym"
+          },
+          {
+            "name": "Spaghetti aglio e olio scampi",
+            "price": "37,00 zł",
+            "description": "spaghetti z krewetkami, czosnkiem, natką pietruszki i chilli na oliwie"
+          },
+          {
+            "name": "Spaghetti nero di mare",
+            "price": "41,00 zł",
+            "description": "czarne spaghetti z owocami morza"
+          },
+          {
+            "name": "Gnocchi formmagio",
+            "price": "30,00 zł",
+            "description": "gnocchi w sosie serowym"
+          },
+          {
+            "name": "Penne con pollo",
+            "price": "31,00 zł",
+            "description": "penne z kurczakiem, pieczarkami i suszonymi pomidorami"
+          },
+          {
+            "name": "Gnocchi pesto",
+            "price": "27,00 zł",
+            "description": "gnocchi w sosie pesto z orzechami"
+          },
+          {
+            "name": "Tagliatelle di maiale",
+            "price": "35,00 zł",
+            "description": "tagliatelle z polędwiczką wieprzową i warzywami sezonowymi na ostro"
+          }
+        ]
+      },
+      {
+        "title": "Zupy",
+        "products": [
+          {
+            "name": "Krem z pomidorów",
+            "price": "15,00 zł",
+            "description": "krem z pomidorów z pesto i parmezanem"
+          },
+          {
+            "name": "Sycylijska zupa rybna",
+            "price": "22,00 zł",
+            "description": "z focaccią"
+          }
+        ]
+      },
+      {
+        "title": "Menu dziecięce",
+        "products": [
+          {
+            "name": "Pizza Pollo",
+            "price": "17,00 zł",
+            "description": "z kurczakiem i kukurydzą"
+          },
+          {
+            "name": "Pizza Bambino",
+            "price": "17,00 zł",
+            "description": "z szynką cotto i ananasem"
+          },
+          {
+            "name": "Gnocchi pomodoro",
+            "price": "17,00 zł",
+            "description": "z sosem pomidorowym"
+          },
+          {
+            "name": "Gnocchi bolognese",
+            "price": "17,00 zł",
+            "description": "z sosem bolognese"
+          },
+          {
+            "name": "Gnocchi z masłem i cukrem",
+            "price": "17,00 zł",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Desery",
+        "products": [
+          {
+            "name": "Sernik z białą czekoladą",
+            "price": "20,00 zł",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Napoje bezalkoholowe",
+        "products": [
+          {
+            "name": "Bombilla mirabelka 0,33l",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Bombilla klasyczna 0,33l",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Bombilla pitahaya 0,33l",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Bombilla granat 0,33l",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Moon Brothers arbuz 0,33l",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Moon Brothers melon 0,33l",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Moon Brothers cola 0,33l",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Moon Brothers grejpfrut 0,33l",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Moon Brothers trawa cytrynowa 0,33l",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Coca-Cola 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Coca-Cola Zero 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Fanta Pomarańczowa 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sprite 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Tonic Kinley 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kropla Beskidu 0,33l",
+            "price": "5,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kropla Delice 0,33l",
+            "price": "5,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kropla Beskidu 0,75l",
+            "price": "10,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Kropla Delice 0,75l",
+            "price": "10,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sok Cappy jabłkowy 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sok Cappy pomarańczowy 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sok Cappy pomidorowy 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Cappy Nektar z czarnej porzeczki 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sok Cappy grejpfrutowy 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sok Cappy multiwitamina 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Fuzetea brzoskwinia 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Fuzetea cytryna 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Fuzetea zielona herbata 0,25l",
+            "price": "7,00 zł",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Byk Bar",
+    "id": "5",
+    "image": "https://www.katalogprezentow.pl/66688-thickbox_default/bon-do-restauracji-byk-bar-w-warszawie.jpg",
+    "latitude": "52.2228527",
+    "longitude": "21.035649",
+    "menu": [
+      {
+        "title": "Najpopularniejsze dania",
+        "products": [
+          {
+            "name": "Cheeseburger",
+            "price": "29,50 zł",
+            "description": "z polską wołowiną rasy Hereford 200g, serem mimolette, ogórkiem, cebulą, mixem sałat i sosem rosyjskim"
+          },
+          {
+            "name": "Wege byk",
+            "price": "29,50 zł",
+            "description": "z kotletem z warzywa sezonowego i cieciorki, warzywami i autorskim sosem"
+          },
+          {
+            "name": "Frytki z batatów",
+            "price": "18,40 zł",
+            "description": "własnoręcznie robione frytki z batatów i autorskim majonezem"
+          }
+        ]
+      },
+      {
+        "title": "Party Sety",
+        "products": [
+          {
+            "name": "Set Balet",
+            "price": "235,00 zł",
+            "description": "4x burger do wyboru4x duże frytkikrążki cebulowe 40 szt.4x colesław4x sos do wyboru"
+          },
+          {
+            "name": "Set Randka",
+            "price": "113,00 zł",
+            "description": "2x burger do wyboru2x duże frytkikrążki cebulowe 15 szt.2x colesław2x sos do wyboru"
+          },
+          {
+            "name": "Set Secik",
+            "price": "63,00 zł",
+            "description": "krążki cebulowe 30 szt.2x duże frytkinachosy4x sos do wyboru"
+          }
+        ]
+      },
+      {
+        "title": "Burgery",
+        "products": [
+          {
+            "name": "Burger Mały byk",
+            "price": "25,50 zł",
+            "description": "z polską wołowiną rasy Hereford 170g, serem mimolette, sałatą, ketchupem i autorskim majonezem"
+          },
+          {
+            "name": "Burger Prawdziwe Bydle",
+            "price": "47,50 zł",
+            "description": "z polską wołowiną rasy Hereford 400g, 2x serem mimolette, 2x bekonem, jajkiem sadzonym, mixem sałat, autorskim sosem majonezem"
+          },
+          {
+            "name": "Burger BBQ Byk",
+            "price": "32,50 zł",
+            "description": "z polską wołowiną rasy Hereford 200g, serem mimolette, bekonem, pomidorem, mixem sałat, autorskim majonezem i sosem BBQ na w wędzonej śliwce"
+          },
+          {
+            "name": "Burger Ognisty Byk",
+            "price": "33,50 zł",
+            "description": "z polską wołowiną rasy Hereford 200g, serem mimolette, bekonem, panierowanymi papryczkami jalapeno, pomidorem, mixem sałat i ostrym sosem"
+          },
+          {
+            "name": "Burger Meksikanerr",
+            "price": "37,50 zł",
+            "description": "z polską wołowiną rasy Hereford 200g, panierowanym kotletem serowym, pico de gallo, mixem sałat, autorskim majonezem i ostrym sosem"
+          },
+          {
+            "name": "Burger On i On",
+            "price": "32,50 zł",
+            "description": "z polską wołowiną rasy Hereford 200g, serem mimolette, krążkami cebulowymi, pomidorem, mixem sałat, autorskim majonezem i BBQ na wędzonej śliwce"
+          },
+          {
+            "name": "Burger Double Cheese",
+            "price": "36,50 zł",
+            "description": "z polską wołowiną rasy Hereford 200g, panierowanym kotletem serowym, serem mimolette, świeżym ogórkiem, cebulą, mixem sałat i wasabi majo"
+          },
+          {
+            "name": "Cheeseburger",
+            "price": "29,50 zł",
+            "description": "z polską wołowiną rasy Hereford 200g, serem mimolette, ogórkiem, cebulą, mixem sałat i sosem rosyjskim"
+          },
+          {
+            "name": "Burger New York",
+            "price": "30,50 zł",
+            "description": "z szarpaną wieprzowiną pieczoną 8 godzin, colesławem, autorskim majonezem i BBQ na wędzonej śliwce"
+          },
+          {
+            "name": "Burger Skurczybyk",
+            "price": "30,50 zł",
+            "description": "z grillowanym kurczakiem, cebulą, mixem sałat i sosem andaluzyjskim"
+          },
+          {
+            "name": "Wege byk",
+            "price": "29,50 zł",
+            "description": "z kotletem z warzywa sezonowego i cieciorki, warzywami i autorskim sosem"
+          }
+        ]
+      },
+      {
+        "title": "Steki",
+        "products": [
+          {
+            "name": "Stek bawette",
+            "price": "61,00 zł",
+            "description": "około 250 g, sól w płatkach, rozmaryn z masłem, autorski sos do wyboru"
+          },
+          {
+            "name": "Stek bawette XXL",
+            "price": "71,00 zł",
+            "description": "około 400 g, sól w płatkach, rozmaryn z masłem, autorski sos do wyboru"
+          },
+          {
+            "name": "Stek Rib Eye",
+            "price": "91,00 zł",
+            "description": "około 250g, sól w płatkach, rozmaryn z masłem, autorski sos do wyboru"
+          },
+          {
+            "name": "Stek T-bone",
+            "price": "111,00 zł",
+            "description": "około 450g, sól w płatkach, rozmaryn z masłem, autorski sos do wyboru"
+          }
+        ]
+      },
+      {
+        "title": "Przystawki",
+        "products": [
+          {
+            "name": "Tatar z awokado",
+            "price": "28,70 zł",
+            "description": "z awokado, suszonym pomidorem, oliwą zieloną i grzanką"
+          },
+          {
+            "name": "Guacamole nachos",
+            "price": "15,40 zł",
+            "description": ""
+          },
+          {
+            "name": "Krążki cebulowe",
+            "price": "8,40 zł",
+            "description": "z aioli"
+          },
+          {
+            "name": "Stripy z kurczaka",
+            "price": "19,00 zł",
+            "description": "panierowane kurczaczki 3/5/8 szt, frytki grubo siekane, ketchup"
+          },
+          {
+            "name": "Quesadilla",
+            "price": "37,00 zł",
+            "description": "szarpana wieprzowina pieczona 8 godzin, cebula, papryka, ser, autorskie BBQ na wędzonej śliwce"
+          }
+        ]
+      },
+      {
+        "title": "Frytki",
+        "products": [
+          {
+            "name": "Frytki",
+            "price": "15,40 zł",
+            "description": "frytki i autorski majonez truflowy"
+          },
+          {
+            "name": "Frytki z batatów",
+            "price": "18,40 zł",
+            "description": "własnoręcznie robione frytki z batatów i autorskim majonezem"
+          },
+          {
+            "name": "Frytki z oliwą truflową",
+            "price": "18,40 zł",
+            "description": "frytki, oliwa truflowa, parmezan"
+          }
+        ]
+      },
+      {
+        "title": "Dodatki",
+        "products": [
+          {
+            "name": "Majonez truflowy",
+            "price": "3,99 zł",
+            "description": ""
+          },
+          {
+            "name": "Sos Aioli",
+            "price": "2,99 zł",
+            "description": ""
+          },
+          {
+            "name": "Sos rosyjski",
+            "price": "2,99 zł",
+            "description": ""
+          },
+          {
+            "name": "Ostry sos",
+            "price": "2,99 zł",
+            "description": ""
+          },
+          {
+            "name": "Sos BBQ",
+            "price": "2,99 zł",
+            "description": ""
+          },
+          {
+            "name": "Majonez",
+            "price": "1,99 zł",
+            "description": ""
+          },
+          {
+            "name": "Ketchup",
+            "price": "0,99 zł",
+            "description": ""
+          },
+          {
+            "name": "Sos wasabi mayo",
+            "price": "2,99 zł",
+            "description": ""
+          },
+          {
+            "name": "Krążki cebulowe 5 szt.",
+            "price": "5,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Sałatka warzywna mała",
+            "price": "4,99 zł",
+            "description": ""
+          },
+          {
+            "name": "Mała porcja frytek z oliwą truflową i parmezanem",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Mała porcja frytek z batatów",
+            "price": "11,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Mała porcja frytek grubo siekanych na zakwasie pszennym",
+            "price": "9,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Colesław",
+            "price": "3,99 zł",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Napoje bezalkoholowe",
+        "products": [
+          {
+            "name": "Pepsi 0,33l",
+            "price": "8,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Pepsi Max 0,33l",
+            "price": "8,00 zł",
+            "description": ""
+          },
+          {
+            "name": "Club Mate 0,33l",
+            "price": "13,00 zł",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  }
+]
