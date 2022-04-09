@@ -1,4 +1,4 @@
-[
+{ "restaurants": [
   {
     "name": "Charlotte Bouillon",
     "id": "1",
@@ -2461,4 +2461,4 @@
       }
     ]
   }
-]
+]}
